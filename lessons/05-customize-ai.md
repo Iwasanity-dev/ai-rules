@@ -24,7 +24,7 @@
 ## 💡 Best Practices für Custom Instructions  
 
 ### Codierungsregeln  
-```
+
 1. **Code-Formatierung**  
    - Always use Black-formatted Python code  
    - Prioritize async/await over threading for I/O operations  
@@ -36,14 +36,14 @@
 3. **Architekturprinzipien**  
    - Enforce hexagonal architecture in OOP designs  
    - Prefer composition over inheritance  
-```
+
 
 ### Interaktionsrichtlinien  
-```
+
 - Antwortlängenlimit: 1200 Token für Code, 800 Token für Erklärungen  
 - Technische Konzepte immer mit realen Use Cases verknüpfen  
 - Codevorlagen müssen 100% ausführbar sein (keine Pseudocode-Lücken)  
-```
+
 
 ## ⚙️ Implementierungsstrategie  
 
