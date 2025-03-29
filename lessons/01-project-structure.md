@@ -1,18 +1,16 @@
-# Starting with Structure, Not Code
+## 🚩 Häufige Fehler bei der Projektstruktur
 
-## Summary
-The most important step is setting up a clear project structure. Don't even think about writing code yet.
+Hier sind einige der häufigsten Stolpersteine, die du vermeiden solltest, wenn du die Struktur deines Projekts planst:
 
-## Detailed Explanation
-When working with AI tools, I've found that jumping straight into coding often leads to confusion and rework. The AI needs clear context about where things should go and how they fit together. By spending time on structure first, both you and the AI have a shared understanding of the project's organization.
+### ❌ 1. Struktur unterwegs improvisieren  
+Es mag verlockend sein, die Struktur während der Entwicklung zu definieren, aber das führt oft zu Chaos und unnötigem Mehraufwand. Plane die Struktur von Anfang an!
 
-## Tips
-- Break down your project into logical components before writing any code
-- Use descriptive folder names that reflect their purpose
-- Include a place for documentation from the start
-- Consider future scale - will this structure work when the project grows?
+### ❌ 2. Alles in einen Ordner werfen  
+„Es ist doch nur ein kleines Projekt“ – dieser Gedanke führt oft dazu, dass alles in einem einzigen Ordner landet. Das macht es später schwer, den Überblick zu behalten und das Projekt zu erweitern.
 
-## Common Mistakes
-- Trying to figure out structure as you go along
-- Putting everything in one directory because "it's a small project"
-- Not having a designated place for tests and documentation
+### ❌ 3. Kein Platz für Tests und Dokumentation  
+Tests und Dokumentation sind essenziell, aber oft wird vergessen, ihnen einen festen Platz in der Struktur zu geben. Ohne klare Orte für diese wichtigen Bestandteile leidet die Qualität des Projekts.
+
+### ✅ Tipp: Plane von Anfang an eine klare Struktur!  
+- 📂 **Ordner für Tests**: Stelle sicher, dass Tests leicht zu finden und auszuführen sind.  
+- 📂 **Ordner für Dokumentation**: Dokumentiere dein Projekt von Anfang an, um Missverständnisse zu vermeiden.  
