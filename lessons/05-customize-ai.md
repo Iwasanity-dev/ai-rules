@@ -1,4 +1,3 @@
-```
 # KI-Individualisierung: Maßgeschneiderte Instruktionen für optimierte Kollaboration  
 
 ## 🧠 Kernprinzipien effektiver KI-Anpassung  
@@ -108,6 +107,4 @@ language_preference:
    ab_test(rule_variants=["strict_type", "dynamic_type"])  
    ```
 
-> "Effektive KI-Individualisierung ist kein Setup, sondern ein Prozess – kontinuierliches Refining ist der Schlüssel." - Lead AI Engineer @ TechUnicorn  
-```
-```
+> "Effektive KI-Individualisierung ist kein Setup, sondern ein Prozess – kontinuierliches Refining ist der Schlüssel." - Lead AI Engineer @ TechUnicorn
