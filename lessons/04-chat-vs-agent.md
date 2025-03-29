@@ -37,7 +37,6 @@ requirements = {
 "testing": "100% Coverage"
 }
 
-text
 
 **Kostenkontrolle**  
 Agent-Interaktionen verursachen 3x höhere API-Kosten. Begrenzen Sie deren Einsatz auf:  
@@ -59,7 +58,6 @@ A[Chat-Entwurf] --> B{Code >50 Zeilen?}
 B -->|Ja| C[Agent-Migration]
 B -->|Nein| D[Inline-Implementation]
 
-text
 
 ### ❌ Prompt-Leakage  
 *Problem:* Unabsichtliche Vermischung von Abstraktionsebenen.  
@@ -72,7 +70,6 @@ Agent-Prompt-Struktur
 [Specific Implementation Request]
 {% endraw %}
 
-text
 
 ## 📈 Leistungskennzahlen  
 
